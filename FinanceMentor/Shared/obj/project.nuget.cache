@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "AfHQKN25QSjsbFw+TsMOkgoALho+SePI5rq/zwrV75SANLFCL81T7v9YcFLlfknp/i7PbaXoDnXhyu1nAGBBmQ==",
+  "success": true,
+  "projectFilePath": "C:\\Repos\\BlazorDashboard\\FinanceMentor\\Shared\\FinanceMentor.Shared.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\renel.homere\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\5.0.0\\microsoft.windowsdesktop.app.ref.5.0.0.nupkg.sha512",
+    "C:\\Users\\renel.homere\\.nuget\\packages\\microsoft.netcore.app.ref\\5.0.0\\microsoft.netcore.app.ref.5.0.0.nupkg.sha512",
+    "C:\\Users\\renel.homere\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\5.0.0\\microsoft.aspnetcore.app.ref.5.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}

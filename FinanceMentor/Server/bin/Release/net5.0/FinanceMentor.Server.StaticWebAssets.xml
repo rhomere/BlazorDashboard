@@ -1,0 +1,6 @@
+﻿<StaticWebAssets Version="1.0">
+  <ContentRoot BasePath="/" Path="C:\Repos\BlazorDashboard\FinanceMentor\Client\bin\Release\net5.0\wwwroot\" />
+  <ContentRoot BasePath="/" Path="C:\Repos\BlazorDashboard\FinanceMentor\Client\obj\Release\net5.0\scopedcss\bundle\" />
+  <ContentRoot BasePath="/" Path="C:\Repos\BlazorDashboard\FinanceMentor\Client\wwwroot\" />
+  <ContentRoot BasePath="_content/Radzen.Blazor" Path="C:\Users\renel.homere\.nuget\packages\radzen.blazor\3.2.0\build\..\staticwebassets\" />
+</StaticWebAssets>

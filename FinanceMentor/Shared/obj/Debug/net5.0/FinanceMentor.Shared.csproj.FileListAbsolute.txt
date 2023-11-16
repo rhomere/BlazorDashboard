@@ -1,0 +1,11 @@
+C:\Repos\FinanceMentor\FinanceMentor\Shared\bin\Debug\net5.0\FinanceMentor.Shared.deps.json
+C:\Repos\FinanceMentor\FinanceMentor\Shared\bin\Debug\net5.0\FinanceMentor.Shared.dll
+C:\Repos\FinanceMentor\FinanceMentor\Shared\bin\Debug\net5.0\FinanceMentor.Shared.pdb
+C:\Repos\FinanceMentor\FinanceMentor\Shared\obj\Debug\net5.0\FinanceMentor.Shared.GeneratedMSBuildEditorConfig.editorconfig
+C:\Repos\FinanceMentor\FinanceMentor\Shared\obj\Debug\net5.0\FinanceMentor.Shared.AssemblyInfoInputs.cache
+C:\Repos\FinanceMentor\FinanceMentor\Shared\obj\Debug\net5.0\FinanceMentor.Shared.AssemblyInfo.cs
+C:\Repos\FinanceMentor\FinanceMentor\Shared\obj\Debug\net5.0\FinanceMentor.Shared.csproj.CoreCompileInputs.cache
+C:\Repos\FinanceMentor\FinanceMentor\Shared\obj\Debug\net5.0\FinanceMentor.Shared.dll
+C:\Repos\FinanceMentor\FinanceMentor\Shared\obj\Debug\net5.0\refint\FinanceMentor.Shared.dll
+C:\Repos\FinanceMentor\FinanceMentor\Shared\obj\Debug\net5.0\FinanceMentor.Shared.pdb
+C:\Repos\FinanceMentor\FinanceMentor\Shared\obj\Debug\net5.0\ref\FinanceMentor.Shared.dll
